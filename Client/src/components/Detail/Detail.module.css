@@ -1,0 +1,10 @@
+.detail__imagens {
+    border: 3px solid rgb(7, 192, 238);
+    border-radius: 180px ;
+    box-shadow: 4px 6px 9px rgb(12, 235, 243);
+}
+
+.configdetalle {
+    color: rgb(49, 8, 104);
+    font-weight: bold;
+}

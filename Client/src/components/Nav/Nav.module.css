@@ -1,0 +1,17 @@
+.stiloslinks {
+    display: flex;
+    justify-content:space-around;
+    background: rgb(9, 155, 240);
+    border-radius: 50px;
+    width: 100%;
+    opacity: 0.8;
+    margin: auto;
+    height: 45px;
+    align-items: center;
+}
+
+.botonNav {
+    color: rgb(1, 31, 31);
+    background-color: rgb(7, 180, 59);
+    border-radius: 50px;
+}
